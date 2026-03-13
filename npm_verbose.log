@@ -1,0 +1,313 @@
+﻿npm : npm verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+At line:1 char:60
++ ... otaung\Desktop\Ark-main\Ark-main'; npm install --verbose 2>&1 | Out-F ...
++                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (npm verbose cli...\bin\npm-cli.js:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+npm info using npm@10.8.2
+
+npm info using node@v20.18.1
+
+npm verbose title npm install
+
+npm verbose argv "install" "--loglevel" "verbose"
+
+npm verbose logfile logs-max:10 dir:C:\Users\motaung\AppData\Local\npm-cache\_logs\2026-03-13T06_18_24_103Z-
+
+npm verbose logfile C:\Users\motaung\AppData\Local\npm-cache\_logs\2026-03-13T06_18_24_103Z-debug-0.log
+
+npm http fetch GET 200 https://registry.npmjs.org/next 18971ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@opentelemetry%2fapi 3879ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@playwright%2ftest 3278ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/react 13931ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/react-dom 4727ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/sass 6316ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@types%2freact 2741ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@types%2freact-dom 4777ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/eslint 9654ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/eslint-config-next 2789ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/typescript 7796ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/tailwindcss 2226ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/csstype 3009ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@types%2fprop-types 4652ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/chalk 2079ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/debug 1056ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/espree 3136ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/esquery 1318ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/doctrine 1691ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@eslint%2fjs 6259ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/optionator 4559ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/cross-spawn 1776ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/eslint-scope 3912ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@eslint%2feslintrc 3364ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@nodelib%2ffs.walk 3556ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/eslint-visitor-keys 5616ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/escape-string-regexp 3082ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@ungap%2fstructured-clone 2434ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@eslint-community%2fregexpp 4375ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@humanwhocodes%2fconfig-array 10521ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@eslint-community%2feslint-utils 5362ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@humanwhocodes%2fmodule-importer 1587ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/eslint-plugin-jsx-a11y 2831ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@typescript-eslint%2fparser 2146ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/eslint-plugin-react-hooks 5739ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/eslint-import-resolver-node 4587ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/eslint-import-resolver-typescript 3933ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/busboy 5606ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@next%2fenv 3868ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@swc%2fhelpers 3454ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/caniuse-lite 1486ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/@next%2fswc-darwin-x64 4689ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@next%2fswc-darwin-arm64 3958ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@next%2fswc-linux-x64-gnu 4961ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@next%2fswc-linux-x64-musl 7040ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@next%2fswc-win32-x64-msvc 6297ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@next%2fswc-linux-arm64-gnu 3223ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@next%2fswc-win32-ia32-msvc 5682ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@next%2fswc-linux-arm64-musl 4454ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@next%2fswc-win32-arm64-msvc 3521ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/arg 1722ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/dlv 9346ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/chokidar 617ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/didyoumean 1666ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@alloc%2fquick-lru 3910ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/browserslist 5026ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/caniuse-lite 1575ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/baseline-browser-mapping 1431ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/caniuse-lite 47ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/electron-to-chromium 3521ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/eslint 2096ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/jiti 1689ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@humanwhocodes%2fobject-schema 7501ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@nodelib%2ffs.scandir 3304ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/ansi-styles 15906ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/esrecurse 2238ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/estraverse 1889ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/acorn 3267ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/acorn-jsx 4288ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/deep-is 2418ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/word-wrap 1287ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@nodelib%2ffs.stat 6040ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/color-convert 5437ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/color-name 10826ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/eslint 4357ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/eslint-plugin-import 3060ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/eslint-plugin-import-x 2904ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@typescript-eslint%2futils 3981ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/typescript 1924ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/@typescript-eslint%2ftypes 5806ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@typescript-eslint%2fvisitor-keys 3741ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@nolyfill%2fis-core-module 2174ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/array-includes 2659ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/array.prototype.flatmap 2165ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/ast-types-flow 2761ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/damerau-levenshtein 2630ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/emoji-regex 2772ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/safe-regex-test 2627ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@rtsao%2fscc 3779ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/array.prototype.findlastindex 4867ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/array.prototype.flat 7588ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/eslint-module-utils 4632ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/semver 3635ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/call-bind 1832ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/call-bound 1122ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/define-properties 1783ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/es-abstract 1019ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/es-object-atoms 3337ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/es-errors 899ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/es-shim-unscopables 1921ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/call-bind-apply-helpers 3019ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/es-define-property 1147ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/define-data-property 1188ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/array-buffer-byte-length 2502ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/arraybuffer.prototype.slice 2303ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/available-typed-arrays 1382ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/data-view-buffer 2422ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/data-view-byte-length 2407ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/data-view-byte-offset 2533ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/es-set-tostringtag 1379ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/es-to-primitive 1670ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/set-proto 2554ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/stop-iteration-iterator 2616ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/array.prototype.findlast 2145ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/array.prototype.tosorted 5087ms (cache revalidated)
+
+npm http fetch GET 200 https://registry.npmjs.org/@swc%2fcounter 753ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/braces 3383ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/anymatch 1302ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/glob-parent 1088ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/is-binary-path 3277ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/fsevents 4940ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/binary-extensions 5402ms (cache hit)
+
+npm http fetch GET 200 https://registry.npmjs.org/dunder-proto 3752ms (cache hit)
+
+npm verbose stack Error: EBUSY: resource busy or locked, rename 
+'C:\Users\motaung\Desktop\Ark-main\Ark-main\node_modules\caniuse-lite\data\regions' -> 
+'C:\Users\motaung\Desktop\Ark-main\Ark-main\node_modules\.caniuse-lite-XT2wLr09\data\regions'
+npm verbose stack     at async Object.rename (node:internal/fs/promises:782:10)
+npm verbose stack     at async moveFile (C:\Program 
+Files\nodejs\node_modules\npm\node_modules\@npmcli\fs\lib\move-file.js:30:5)
+npm verbose stack     at async Promise.all (index 0)
+npm verbose stack     at async moveFile (C:\Program 
+Files\nodejs\node_modules\npm\node_modules\@npmcli\fs\lib\move-file.js:36:9)
+npm verbose stack     at async Promise.all (index 0)
+npm verbose stack     at async moveFile (C:\Program 
+Files\nodejs\node_modules\npm\node_modules\@npmcli\fs\lib\move-file.js:36:9)
+npm verbose stack     at async Promise.allSettled (index 1)
+npm verbose stack     at async [reifyPackages] (C:\Program 
+Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\reify.js:325:11)
+npm verbose stack     at async Arborist.reify (C:\Program 
+Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\reify.js:142:5)
+npm verbose stack     at async Install.exec (C:\Program Files\nodejs\node_modules\npm\lib\commands\install.js:150:5)
+
+npm error code EBUSY
+
+npm error syscall rename
+
+npm error path C:\Users\motaung\Desktop\Ark-main\Ark-main\node_modules\caniuse-lite\data\regions
+
+npm error dest C:\Users\motaung\Desktop\Ark-main\Ark-main\node_modules\.caniuse-lite-XT2wLr09\data\regions
+
+npm error errno -4082
+
+npm error EBUSY: resource busy or locked, rename 
+'C:\Users\motaung\Desktop\Ark-main\Ark-main\node_modules\caniuse-lite\data\regions' -> 
+'C:\Users\motaung\Desktop\Ark-main\Ark-main\node_modules\.caniuse-lite-XT2wLr09\data\regions'
+
+npm verbose cwd C:\Users\motaung\Desktop\Ark-main\Ark-main
+
+npm verbose os Windows_NT 10.0.17134
+
+npm verbose node v20.18.1
+
+npm verbose npm  v10.8.2
+
+npm verbose exit -4082
+
+npm verbose code -4082
+
+npm error A complete log of this run can be found in: 
+C:\Users\motaung\AppData\Local\npm-cache\_logs\2026-03-13T06_18_24_103Z-debug-0.log
+

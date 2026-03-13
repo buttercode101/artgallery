@@ -1,0 +1,15 @@
+﻿npm : npm error code ENOTEMPTY
+At line:1 char:98
++ ... main'; Write-Host 'Starting npm install...'; npm install 2>&1 | Out-F ...
++                                                  ~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (npm error code ENOTEMPTY:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+npm error syscall rmdir
+npm error path C:\Users\motaung\Desktop\Ark-main\Ark-main\node_modules\es-abstract\2023
+npm error errno -4051
+npm error ENOTEMPTY: directory not empty, rmdir 
+'C:\Users\motaung\Desktop\Ark-main\Ark-main\node_modules\es-abstract\2023'
+npm error A complete log of this run can be found in: 
+C:\Users\motaung\AppData\Local\npm-cache\_logs\2026-03-13T06_07_08_839Z-debug-0.log
+

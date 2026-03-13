@@ -1,0 +1,13 @@
+﻿
+> ark-contemporary-demo@0.1.0 build
+> next build
+
+npm : 'next' is not recognized as an internal or external command,
+At line:1 char:213
++ ... '; Write-Host 'Starting npm run build...'; npm run build 2>&1 | Out-F ...
++                                                ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ('next' is not r...ternal command,:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+operable program or batch file.
+

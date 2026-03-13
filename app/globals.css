@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-bg text-ink antialiased;
+}
+
+.section-label {
+  @apply uppercase tracking-[0.3em] text-xs text-terracotta font-medium;
+}
+
+.editorial-title {
+  @apply font-serif italic leading-tight;
+}
+
+.glass {
+  backdrop-filter: blur(12px);
+  background: rgba(252, 250, 247, 0.75);
+  border: 1px solid rgba(2, 6, 23, 0.06);
+}
